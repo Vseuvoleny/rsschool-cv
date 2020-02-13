@@ -12,3 +12,7 @@ I know JavaScript, Jquery,HTML,CSS,GIT, just a little bit Ionic Framework, W3C, 
 
 [This is my last coding practice.](https://github.com/Vseuvoleny/MerctTask.git)
 Anyway You can look my examples on my [GitHub.](https://github.com/Vseuvoleny)
+
+You have graduated Samara State unvercity on Sociological Faculty. But in Frontend Development I read [JS tutorial](https://learn.javascript.ru) and "Eloquent JavaScript", take some exercise on [HTML Academy](https://htmlacademy.ru) and doing some task(test task, landing etc.)
+
+I have an Intermediate or Upper-Intermediate English level, but, honestly, i need more practising with.
